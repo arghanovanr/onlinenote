@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/onlinenote/static/css/main.4e697ff7.css",
-    "main.js": "/onlinenote/static/js/main.a98b3144.js",
+    "main.js": "/onlinenote/static/js/main.24fa6978.js",
     "static/js/787.06129c31.chunk.js": "/onlinenote/static/js/787.06129c31.chunk.js",
     "static/media/fa-solid-900.ttf": "/onlinenote/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/onlinenote/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.woff2": "/onlinenote/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/onlinenote/index.html",
     "main.4e697ff7.css.map": "/onlinenote/static/css/main.4e697ff7.css.map",
-    "main.a98b3144.js.map": "/onlinenote/static/js/main.a98b3144.js.map",
+    "main.24fa6978.js.map": "/onlinenote/static/js/main.24fa6978.js.map",
     "787.06129c31.chunk.js.map": "/onlinenote/static/js/787.06129c31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e697ff7.css",
-    "static/js/main.a98b3144.js"
+    "static/js/main.24fa6978.js"
   ]
 }
